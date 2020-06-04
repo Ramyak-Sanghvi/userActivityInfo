@@ -1,0 +1,1 @@
+web: gunicorn projectworkspace.wsgi --pythonpath=projectworkspace --log-file -
